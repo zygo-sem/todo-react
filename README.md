@@ -1,2 +1,2 @@
-# todo-react
+# react-kihon
 Created with CodeSandbox
